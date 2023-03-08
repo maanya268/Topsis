@@ -47,8 +47,9 @@ The decision matrix should be constructed with each row representing a Model alt
 
 Input Image:
 
-![App Screenshot](https://snipboard.io/2iNa6v.jpg)
+![image](https://user-images.githubusercontent.com/74601983/223729422-621fe94e-535a-411c-92ca-5944f1bf7257.png)
+
 
 #### Output Image: 
 
-![App Screenshot](https://snipboard.io/ljPUHv.jpg)
+![image](https://user-images.githubusercontent.com/74601983/223729586-4e2716c8-4ef5-45c5-ba37-4bd5e71d6ec6.png)
